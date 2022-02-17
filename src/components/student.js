@@ -209,6 +209,8 @@ function Student() {
             <th scope="col">Math</th>
             <th scope="col">English</th>
             <th scope="col">Total Marks</th>
+            <th scope="col">Update</th>
+            <th scope="col">Delete</th>
           </tr>
         </thead>
 
